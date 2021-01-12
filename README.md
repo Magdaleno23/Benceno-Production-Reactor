@@ -1,2 +1,2 @@
-# Benceno Production Ractor
+# Benceno Production Reactor
  Diseño de un reactor PFR para la obtención de benceno
