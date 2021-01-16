@@ -5,6 +5,7 @@
 Las reacciones implicadas, en fase gaseosa, son:
 
 Reacción principal:                      C7H8 + H2 → C6H6 + CH4
+
 Reacción secundaria:                      2 C6H6 ⇌ C12H10 + H2
 
 En la reacción principal el tolueno e hidrógeno reaccionan, produciéndose la eliminación del grupo metilo y generando una molécula de benceno y otra de metano como productos de reacción. La reacción es estable en un rango de temperaturas de 870 – 1030 K y a una presión de 500 psi (34 –35 atm).
