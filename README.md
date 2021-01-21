@@ -1,7 +1,7 @@
 # Benceno Production Reactor
  Diseño de un reactor PFR para la obtención de benceno a partir de tolueno
  
- El proceso seleccionado para desarrollar el proyecto es la hidrodesalquilación térmica de tolueno.
+ El proceso seleccionado para desarrollar el proyecto es la hidrodesalquilación térmica de tolueno (HDA).
 Las reacciones implicadas, en fase gaseosa, son:
 
 Reacción principal:                      C7H8 + H2 → C6H6 + CH4
