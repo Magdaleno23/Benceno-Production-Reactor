@@ -33,6 +33,7 @@ H=Href + f*alfa'; % kj/kmol   (1x3 + 1x5 * 5x3 = 1x3)
 %    r_i : Velocidad de cada una de las reacciones implicadas en lbmol/(min·ft3).
 %    T : Temperatura expresada en K.
 %    p_j: Presión parcial del componente en psi.
+
 % Ecuaciones cinéticas:
 r(1)=3.6858*10^6*exp(-(2.5616*10^4)/T)*pj(1)*pj(2)^0.5*(0.453592/(60*0.3048^3)); % velocidad de reacción 1 en kmol/m3.s (siendo(0.453592/(60*0.3048^3)el factor de conversión)
 r(2)=0.62717*exp(-(1.5362*10^4)/T)*pj(3)^2*(0.453592/(60*0.3048^3));             % velocidad de reacción 2 en kmol/m3.s
