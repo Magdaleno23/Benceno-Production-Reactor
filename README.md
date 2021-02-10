@@ -15,13 +15,13 @@ Para facilitar la comprensión del programa diseñado, se especifican las variab
 
 	Variable independiente: L, longitud del reactor.
 	Variables dependientes: y, un total de 7 que engloban: 
- 	n_j  (kmol/s). Un total de 5 elementos, cada uno referido al flujo molar de cada elemento que interviene en el proceso.
- 	T (K). Temperatura.
- 	P (Pa). Presión.
+ 	  n_j  (kmol/s): Un total de 5 elementos, cada uno referido al flujo molar de cada elemento que interviene en el proceso.
+ 	  T (K): Temperatura.
+ 	  P (Pa): Presión.
   
 Se debe definir una corriente de alimento al reactor como inicio de la simulación; dicha corriente tiene las siguientes características:
 
  	Temperatura de entrada: 922 K.
  	Presión de entrada: 3,447·10^6 Pa.
-	 Se alimenta al reactor un total de 356.287 tm/año.
+	Se alimenta al reactor un total de 356.287 tm/año.
 
